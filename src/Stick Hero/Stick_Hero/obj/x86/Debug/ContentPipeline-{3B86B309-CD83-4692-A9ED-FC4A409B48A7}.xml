@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Stickman.png</Source>
+      <Name>Stickman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Stickman.xnb</Output>
+      <Time>2018-06-24T15:39:38.4789341+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Plat.png</Source>
+      <Name>Plat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Plat.xnb</Output>
+      <Time>2018-06-24T16:27:57.3688382+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Redplat.png</Source>
+      <Name>Redplat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Redplat.xnb</Output>
+      <Time>2018-06-24T16:28:55.8041123+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Falling.wav</Source>
+      <Name>Falling</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Falling.xnb</Output>
+      <Time>2018-06-30T11:38:17.8615726+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Score.wav</Source>
+      <Name>Score</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2018-06-30T11:38:17.8745536+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Wood_falling.wav</Source>
+      <Name>Wood_falling</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Wood_falling.xnb</Output>
+      <Time>2018-06-30T11:38:17.8785636+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Button Play.png</Source>
+      <Name>Button Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Button Play.xnb</Output>
+      <Time>2018-07-03T12:20:00.8276795+04:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3B86B309-CD83-4692-A9ED-FC4A409B48A7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_HeroContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-29T12:50:36.1094963+04:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

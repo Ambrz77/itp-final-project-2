@@ -1,0 +1,23 @@
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\obj\x86\Debug\Stick_Hero.csprojResolveAssemblyReference.cache
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Stickman.xnb
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Stick_Hero.exe
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Stick_Hero.pdb
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\obj\x86\Debug\Stick_Hero.exe
+c:\users\alireza\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\obj\x86\Debug\Stick_Hero.pdb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Plat.xnb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Redplat.xnb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Falling.xnb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Score.xnb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Wood_falling.xnb
+C:\Users\Alireza\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\Stick_Hero\bin\x86\Debug\Content\Button Play.xnb
